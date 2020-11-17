@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-   printf("hello world for everyone");
+   printf("hello world just for me");
    return 0;
 }
